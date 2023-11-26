@@ -1,0 +1,4 @@
+3 
+111 user1 genpass 0
+222 user2 genpass 0
+333 user3 genpass 0
